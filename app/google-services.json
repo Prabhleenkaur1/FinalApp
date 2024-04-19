@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "132817912728",
+    "firebase_url": "https://finalapp-7f5a1-default-rtdb.firebaseio.com",
+    "project_id": "finalapp-7f5a1",
+    "storage_bucket": "finalapp-7f5a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132817912728:android:988cab320cf8cf37d961ed",
+        "android_client_info": {
+          "package_name": "com.example.finalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwQS_AU6ACqO1epsxeOuI1XBdDBJ9SOuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

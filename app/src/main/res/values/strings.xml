@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FinalApp</string>
+    <string-array name="ranking_array">
+        <item>Select Ranking</item>
+        <item>Top 1</item>
+        <item>Top 2</item>
+        <item>Top 3</item>
+        <item>Top 4</item>
+        <item>Top 5</item>
+
+    </string-array>
+</resources>
